@@ -1,2 +1,2 @@
 # LeetCodePractise
-Leetcode practise setions
+Leetcode practise sessions
